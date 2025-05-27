@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    border-radius: 20px;
+    height: 50px;
+    background-color: aliceblue;
+}
+nav a {
+    text-decoration: none;
+    text-align: center;
+     padding: 20px 90px;
+     
+}
+nav a:hover{
+  color: green;
+  font-size: xx-large;
+}
+nav a:active{
+  text-decoration: underline;
+}
+.act{
+    text-align: center;
+}
+.bad{
+    background-color: rgb(10, 231, 10);
+    height: 140px;
+   
+}
