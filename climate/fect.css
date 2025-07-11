@@ -22,9 +22,9 @@ nav {
     background-color: #0ca817;
     color: #fff;
     position: fixed;
-  /* width: 100%; */
+  width: 100%;
   padding: 15px;
-  position: sticky;
+
   
   z-index: 100;
     padding: 1rem 2rem;
